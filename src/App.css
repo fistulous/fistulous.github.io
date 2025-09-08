@@ -1,0 +1,58 @@
+html{
+  background-color: #232323;
+}
+
+.Title {
+  text-align: center;
+  color:aliceblue;
+  background-color: #002647;
+  margin:0px;
+  padding:20px;
+}
+
+.startscreen {
+  text-align: center;
+  color:aliceblue;
+  background-color: #002647;
+  margin: 30px;
+  padding: 200px;
+
+}
+
+.waitscreen {
+  text-align: center;
+  color:aliceblue;
+  background-color:rgb(114, 0, 0);
+  margin: 30px;
+  padding: 200px;
+}
+
+.greenscreen {
+  text-align: center;
+  color:aliceblue;
+  background-color:rgb(22, 109, 0);
+  margin: 30px;
+  padding: 200px;
+}
+
+.result {
+  text-align: center;
+  color:aliceblue;
+  background-color:#002647;
+  margin: 30px;
+  padding: 200px;
+}
+
+.missscreen {
+  text-align: center;
+  color:aliceblue;
+  background-color:rgb(114, 0, 0);
+  margin: 30px;
+  padding: 200px;
+}
+
+.result h1,
+.result h2 {
+  display: inline;
+  margin: 0; /* 기본 마진 제거 */
+}
